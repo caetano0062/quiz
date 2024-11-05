@@ -76,10 +76,6 @@ public class Principal {
         q5.escrevaQuestao();
         resposta = q5.leiaResposta();
         q5.isCorreta(resposta);
-
-        //proxima questao
-
-
         Questao q6 = new Questao();
         q6.pergunta="1-qual orgao responsavel por bombear sangue ao nosso corpo  ?";
         q6.opcaoA="a - rim";
@@ -108,7 +104,5 @@ public class Principal {
         q7.escrevaQuestao();
         resposta = q7.leiaResposta();
         q7.isCorreta(resposta);
-
-        ....
     }
 }
