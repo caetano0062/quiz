@@ -104,5 +104,6 @@ public class Principal {
         q7.escrevaQuestao();
         resposta = q7.leiaResposta();
         q7.isCorreta(resposta);
+
     }
 }
